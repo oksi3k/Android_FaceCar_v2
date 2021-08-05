@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FaceCar v2</string>
+    <string name="button_register">Register User</string>
+    <string name="button_scan">Unlock Car</string>
+    <string name="button_clearData">Clear Data</string>
+    <string name="main_imageView" translatable="false">main_wallpaper</string>
+    <string name="textView_bottom">Simple and Secure Facial Recognition Unlock for Cars!</string>
+    <string name="textView_top">FaceCar v2</string>
+    <string name="ImageAckText">Your Image has been saved to the Database.</string>
+    <string name="ImageAckHeading">Success!</string>
+    <string name="ImageAckButton">New Photo</string>
+    <string name="loading_text_header">Face Scanning in Progress</string>
+    <string name="loading_text_body">Working on it...</string>
+    <string name="main_successView">main_successView</string>
+    <string name="success_heading">Face match found in dataset!</string>
+    <string name="success_body">Your Car has been Unlocked</string>
+    <string name="Rpi_notification">Refer to RPi for visual feedback</string>
+    <string name="recognizer_value">Prediction and label here!</string>
+    <string name="tick_drawable">tick_drawable</string>
+    <string name="failure_heading">No Face match found in dataset</string>
+    <string name="failure_body">Your Car is locked</string>
+    <string name="failure_cross">failure_cross</string>
+    <string name="ack_train_btn">Train Model</string>
+    <string name="clear_data">Your data has been cleared!</string>
+    <string name="button_return">Home</string>
+    <string name="warning_data">No data to clear</string>
+</resources>
